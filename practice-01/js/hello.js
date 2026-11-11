@@ -1,7 +1,7 @@
 "use strict";
 
-const studentName = "Иванов Иван";
-const groupName = "ИС-21";
+const studentName = "Бораев Борис";
+const groupName = "ЭФБО-06-25";
 const practiceNumber = 1;
 
 console.log(`Студент: ${studentName}`);
